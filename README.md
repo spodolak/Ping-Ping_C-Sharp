@@ -2,7 +2,7 @@
 
 #### _A C# application that creates a range from 0 to the user's input and replaces numbers divisible by 3 with "ping", numbers divisible by 5 with "pong", and numbers divisible by both 3 and 5 with "ping-pong"._
 
-#### By _**Dana Luukko**_
+#### By _**Dana Luukko and Steph Podolak**_
 
 ## Description
 #### _A C# application that creates a range from 0 to the user's input and replaces numbers divisible by 3 with "ping", numbers divisible by 5 with "pong", and numbers divisible by both 3 and 5 with "ping-pong"._
@@ -26,9 +26,9 @@ _In Terminal:_
 * Navigate to where you want this application to be saved, i.e.:
 $ cd Desktop
 * Clone the file from GitHub with HTTPS
-$ git clone https://github.com/dcluukko/7-ind-proj-pierres-bakery.git
+$ git clone https://github.com/spodolak/PingPong.git
 * Open file in your preferred text editor
-$ code 7-ind-proj-pierres-bakery
+$ code PingPong
 * Run Console App
 $ dotnet run 
 
@@ -38,7 +38,7 @@ _Unable to connect bread and pastry totals._
 
 ## Support and contact details
 
-_Have a bug or an issue with this application? [Open a new issue](https://github.com/dcluukko/7-ind-proj-pierres-bakery/issues) here on GitHub._
+_Have a bug or an issue with this application? [Open a new issue](https://github.com/spodolak/PingPing/issues) here on GitHub._
 
 ## Technologies Used
 
@@ -50,4 +50,4 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
-Copyright (c) 2020 **_Dana Luukko_**
+Copyright (c) 2020 **_Dana Luukko & Steph Podolak_**
